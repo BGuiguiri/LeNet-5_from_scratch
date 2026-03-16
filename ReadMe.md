@@ -26,7 +26,7 @@ Input (1, 32, 32)
 LeNet-5_from_scratch/
 ├── Code_LeNet-5.ipynb     # Notebook principal contenant tout le code
 ├── README.md              # Ce fichier
-└── Tech_Brief.pdf         # Rapport d'une page du projet
+└── Rapport_LeNet.pdf         # Rapport d'une page du projet
 ```
 
 ---
